@@ -13,7 +13,7 @@
 **毕业设计所有选题地址：
 [https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于Java+Springboot的健身房管理系统089
+## 基于Springboot的健身房管理系统(源代码+数据库+万字论文)089
 
 ## 一、系统介绍
 
